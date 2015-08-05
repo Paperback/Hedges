@@ -1,0 +1,8 @@
+
+Name                 Hedges  
+Description          "Wow, hedges.\nI like hedges, man."  
+IsTranslation        false  
+UpdateTime           1438805730  
+Author               Paperback  
+FileID               F494596153  
+SteamAuthor          A76561197970686369  
